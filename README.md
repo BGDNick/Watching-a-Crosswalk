@@ -6,4 +6,4 @@ The code is organized in jupyter notebooks:
 * 'YOLO baseline.ipynb' - YOLO applied to moving car detection
 * 'SpeedDetection.ipynb' - speeders detection algorithm
 
-Vids directory contains source video clips obtained from real-world CCTV cameras.
+'vids' directory contains source video clips obtained from real-world CCTV cameras.
