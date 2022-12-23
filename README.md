@@ -10,8 +10,8 @@ The code is organized in jupyter notebooks:
 
 ## Requirements
 
-cv2 = 4.6.0
-torch >= 1.13
-torchvision >= 0.14.0
-skimage = 0.18.1
-sklearn = 1.0.2
+* cv2 = 4.6.0
+* torch >= 1.13
+* torchvision >= 0.14.0
+* skimage = 0.18.1
+* sklearn = 1.0.2
